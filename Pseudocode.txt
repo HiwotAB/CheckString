@@ -1,0 +1,11 @@
+1.Declare the string variable responses and set the vall to null.
+2.Print message to the user "Would you like to continue?"
+3.While resposes is equalIgnoreCase y or is not resposes is equalIgnoreCase n
+4.Accept String input.
+5.Set the input to the resposes  varibale.	
+	If responses value is y 	
+	Print "Would you like to contine"
+	else
+	print "Invalid Value you entered"
+	Print "Would you like to contine".
+end while loop

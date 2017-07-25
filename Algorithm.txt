@@ -1,0 +1,8 @@
+1.Prompt the user "Would you like to contiue?"
+2.Get input values from the user.
+3.Check for the three cases
+	a.If yes use "y" and continue to step number 1
+	b.If no use "n" and quit 
+	c.If it is other values prompt the error message and conitue to step number 1
+
+		
